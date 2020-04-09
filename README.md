@@ -31,13 +31,6 @@ The method Proposed here is divided into 2 main parts
 
 The tracking part still faces some problem at the time of an occlusion. (Working on it)
 
-## Performance of Code
-* The code was run on both CPU and GPU:	
-	* Nvidia Quadro 4000  -  ~30FPS
-	* Nvidia Jetson TX2   -  ~20FPS
-	* Intel i5 CPU	      -  ~10FPS
-## Output
-![Alt Text](https://github.com/ambakick/Person-Detection-and-Tracking/blob/master/person%20detection%20and%20track.gif)
 
 ## Overview / Usage
 The system consist of two parts first human detection and secondly tracking. Early research is biased to human recognition rather than tracking. Monitoring the movements of human being raised the need for tracking. Monitoring movements are of high interest in determining the activities of a person and knowing the attention of person. This project focuses on Person Detection and tracking.
